@@ -1,2 +1,2 @@
 # InternetButtonSMS
-Make the internet button react to notification on your phone
+Make the particle internet button react to notification on your phone
